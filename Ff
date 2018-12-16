@@ -1,0 +1,104 @@
+<html>
+  <head>
+    <style type="text/css">
+      .main{
+        
+        width: 1000px;
+        margin: 0 auto; 
+      }
+      .header{
+        background-color:#26282C;
+        color:#D4D4D5;
+        padding-top:10px;
+        padding-bottom:10px;
+        margin-bottom:10px;
+      }
+      .menu{
+        margin-bottom:15px;
+        font-size:15px;
+        font-weight:bold;
+      }
+      a{
+        text-decoration:none;
+        color:black;
+        padding:7px;
+        
+      }
+      span{
+        padding:0px;
+      }
+      a:hover{
+        color:#D9C308;
+        background-color:#aqua-marin;
+      }
+      .content{
+        padding:5px;
+      }
+      .img-content{
+        width:150px; height:150px; float:left;margin-right:10px;margin-bottom:10px;
+        
+      }
+      .footer{
+        margin-top:50px;
+        padding:5px;
+        color:#FFFFFF;
+        background-color:#26282C;
+      }
+    </style>
+    
+  </head>
+  <body>
+    <div style="widht:800;" class="main">
+      
+      <div class="header">
+        <CENTER><h1>HABER SİTESİ</h1></CENTER>
+      </div>
+      
+      <div class="menu">
+        <span><a href="#">Anasayfa</a></span>
+        <span><a href="#">Galeri</a></span>
+        <span><a href="#">Günün Haberleri</a></span>
+        <span><a href="#">Hakkımızda</a></span>
+        <span><a href="#">İletişim</a></span>
+        <hr>
+      </div>
+      <div class="main-content">
+        
+        <div class="content">
+        <img class="img-content"  src="https://www.w3schools.com/css/pineapple.jpg" alt="">
+          <B><span>HABER BAŞLIĞI</span></B><BR>
+        Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen           bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı           1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca                 varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.               1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda           Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler                 olmuştur.
+         Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen           bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı           1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca                 varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.               1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda           Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler                 olmuştur.
+        </div>
+          <hr>
+           <div style="clear:both;"></div>
+        <div class="content">
+         
+        <img class="img-content"  src="https://www.w3schools.com/css/pineapple.jpg" alt="">
+          <B><span>HABER BAŞLIĞI</span></B><BR>
+        Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen           bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı           1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca                 varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.               1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda           Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler                 olmuştur.
+        </div>
+          <div style="clear:both;"></div>
+         <hr>
+           
+        <div class="content">
+         
+        <img class="img-content"  src="https://www.w3schools.com/css/pineapple.jpg" alt="">
+          <B><span>HABER BAŞLIĞI</span></B><BR>
+        Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen           bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı           1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca                 varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.               1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda           Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler  
+          olmuştur.
+        </div>
+          
+      </div>
+      <div style="clear:both;"></div>
+          
+          <div class="footer">
+            <center>
+              <b>Created by Buket Arıncı</b>
+            </center>
+          </div>
+      
+    </div>
+    
+  </body>
+</html>
